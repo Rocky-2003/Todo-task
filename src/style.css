@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Muli";
+  display: flex;
+  align-items: center;
+
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  /* background: linear-gradient(135deg, #001f3f, #00bcd4); */
+  /* background: linear-gradient(135deg, #00ff99, #ff00cc);  */
+  background: linear-gradient(135deg, #f0d896, #4d0353);
+}
+
+.todo-app {
+  width: 100%;
+  max-width: 540px;
+  border-radius: 10px;
+  padding: 40px 30px 70px;
+  /* background-color: #fff; */
+  background: linear-gradient(135deg, #d9bf77, #6a0572);
+  /* background: linear-gradient(135deg, #00ff99, #ff00cc); */
+  /* background: linear-gradient(135deg, #3498db, #6c5b7b); */
+  /* background: linear-gradient(135deg, #ff512f, #dd2476); */
+  /* background: linear-gradient(135deg, #ffb6c1, #63a69f); */
+  box-shadow: 30px 30px 10px rgba(0, 0, 0, 0.3);
+}
+
+.todo-app h2 {
+  display: flex;
+  color: #002765;
+  align-items: center;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.todo-app img {
+  width: 40px;
+  margin: 0 0 13px 13px;
+}
+
+.row {
+  width: 100%;
+  height: 40px;
+  margin: 20px 0;
+}
+
+#user-input {
+  border: 0;
+  font-family: "Muli";
+  font-size: 18px;
+  color: black;
+  background-color: rgb(212, 212, 212);
+  padding: 10px 15px;
+  border-radius: 30px;
+  width: 80%;
+  font-weight: 500;
+  cursor: text;
+}
+#user-input:focus {
+  outline: none;
+}
+#btn {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 20px;
+  border: 0;
+  border-radius: 30px;
+  padding: 10px 20px;
+  /* background-color: #00bcd4; */
+  background-color: #aa8ed6; /* Light purple background */
+  color: #fff; /* White text color */
+  cursor: pointer;
+}
+
+#list-items {
+  margin-top: 50px;
+}
+
+#list-items li {
+  position: relative;
+  margin-bottom: 30px;
+  color: white;
+  user-select: none;
+  cursor: pointer;
+  padding: 0 8px 0 50px;
+}
+
+#list-items li::before {
+  content: "";
+  left: 5px;
+  top: -5px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 50px;
+  /* color: white; */
+  background-size: cover;
+  background-position: center;
+  background-image: url("../assets/unchecked.png");
+}
+
+#list-items li.checked {
+  text-decoration: line-through;
+}
+
+#list-items li.checked::before {
+  background-image: url("../assets/checked.png");
+}
+
+#list-items li span {
+  position: absolute;
+  right: 30px;
+  top: -8px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 8px 10px;
+}
+#list-items li span::before {
+  content: "X";
+}
+#list-items li span:hover {
+  background-color: rgb(212, 212, 212);
+  color: black;
+}
