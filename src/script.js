@@ -6,14 +6,16 @@ let arr = [];
 // *setting local storage
 let storage = localStorage.getItem("listOfItems");
 let storedItem = JSON.parse(storage);
-storedItem.forEach((element) => {
-  let listItem = document.createElement("li");
-  listItem.innerHTML = element;
-  listTheItems.appendChild(listItem);
-  let crossElement = document.createElement("span");
-  listItem.appendChild(crossElement);
-});
 
+if (storage) {
+  storedItem.forEach((element) => {
+    let listItem = document.createElement("li");
+    listItem.innerHTML = element;
+    listTheItems.appendChild(listItem);
+    let crossElement = document.createElement("span");
+    listItem.appendChild(crossElement);
+  });
+}
 
 // * adding todo list task
 const span = addBtn.addEventListener("click", function (e) {
@@ -32,22 +34,18 @@ const span = addBtn.addEventListener("click", function (e) {
   userInput.value = "";
 });
 
-
 // removing element and mark complete
 listTheItems.addEventListener("click", (e) => {
   e.preventDefault();
   if (e.target.tagName === "LI") {
     e.target.classList.toggle("checked");
-    
   }
   if (e.target.tagName === "SPAN") {
     e.target.closest("li").remove();
-    console.log(e.target.closest('li').textContent);
-    let indexToRemove = storedItem.indexOf(e.target.closest('li').textContent);
-    console.log(indexToRemove);
+    let indexToRemove = storedItem.indexOf(e.target.closest("li").textContent);
     if (indexToRemove !== -1) {
       storedItem.splice(indexToRemove, 1);
-      localStorage.setItem('listOfItems', JSON.stringify(storedItem));
+      localStorage.setItem("listOfItems", JSON.stringify(storedItem));
     }
   }
 });

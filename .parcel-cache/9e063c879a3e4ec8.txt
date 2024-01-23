@@ -1,4 +1,4 @@
-5944
+5952
 75D:\Desktop\Todo\node_modules\electron-to-chromium\full-chromium-versions.js133504830725723640 0
 37D:\Desktop\Todo\node_modules\get-port133504830727855020 1
 75D:\Desktop\Todo\node_modules\css-select\node_modules\dom-serializer\LICENSE133504830720598707 0
@@ -21,14 +21,14 @@
 53D:\Desktop\Todo\node_modules\node-addon-api\nothing.c133504830719468785 0
 50D:\Desktop\Todo\node_modules\csso\dist\csso.esm.js133504830759428659 0
 76D:\Desktop\Todo\node_modules\@swc\helpers\esm\_class_private_field_update.js133504830769698026 0
-20D:\Desktop\Todo\dist133504834900542112 1
+20D:\Desktop\Todo\dist133504883730306405 1
 60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\SR.js133504830836232791 0
 66D:\Desktop\Todo\node_modules\posthtml\node_modules\posthtml-parser133504830729821817 1
 78D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133504830761806873 0
 77D:\Desktop\Todo\node_modules\caniuse-lite\data\features\keyboardevent-code.js133504830822568890 0
 50D:\Desktop\Todo\node_modules\dotenv-expand\LICENSE133504830725803703 0
 52D:\Desktop\Todo\node_modules\js-yaml\lib\type\seq.js133504830746019210 0
-26D:\Desktop\Todo\.gitignore133504831236307325 0
+26D:\Desktop\Todo\.gitignore133504836756959744 0
 61D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries133504830727145648 1
 85D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\xast.js133504830762159176 0
 78D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133504830761596394 0
@@ -46,6 +46,19 @@
 33D:\Desktop\Todo\package-lock.json133504830859951383 0
 51D:\Desktop\Todo\node_modules\@parcel\fs\src\find.js133504830727032066 0
 28D:\Desktop\Todo\node_modules133504830860819167 1
+55D:\Desktop\Todo\node_modules\@lezer\common\package.json133504830732484062 0
+71D:\Desktop\Todo\node_modules\caniuse-lite\data\features\font-feature.js133504830817088227 0
+83D:\Desktop\Todo\node_modules\csso\node_modules\css-tree\lib\syntax\node\Operator.js133504830783219875 0
+89D:\Desktop\Todo\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.js.map133504830749588050 0
+79D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133504830728396419 0
+60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\GQ.js133504830819408761 0
+60D:\Desktop\Todo\node_modules\@swc\helpers\_\_super_prop_base133504830789907363 1
+71D:\Desktop\Todo\node_modules\caniuse-lite\data\features\offline-apps.js133504830832246029 0
+81D:\Desktop\Todo\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.mjs133504830761302260 0
+77D:\Desktop\Todo\node_modules\@babel\code-frame\node_modules\has-flag\index.js133504830722561530 0
+94D:\Desktop\Todo\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts.map133504830745450061 0
+41D:\Desktop\Todo\node_modules\csso\LICENSE133504830719798746 0
+25D:\Desktop\Todo\README.md133504880980325651 0
 59D:\Desktop\Todo\node_modules\@parcel\core\lib\buildCache.js133504830749617379 0
 85D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo.js133504830761753370 0
 49D:\Desktop\Todo\node_modules\csso\cjs\restructure133504830750538427 1
@@ -63,7 +76,7 @@
 63D:\Desktop\Todo\node_modules\css-tree\cjs\syntax\node\Value.cjs133504830775611603 0
 55D:\Desktop\Todo\node_modules\svgo\plugins\cleanupIds.js133504830751245255 0
 46D:\Desktop\Todo\node_modules\boolbase\index.js133504830723911800 0
-29D:\Desktop\Todo\src\script.js133504834894139509 0
+29D:\Desktop\Todo\src\script.js133504883728742379 0
 44D:\Desktop\Todo\node_modules\js-yaml\LICENSE133504830719994628 0
 35D:\Desktop\Todo\node_modules\@babel133504830700083240 1
 44D:\Desktop\Todo\node_modules\is-glob\LICENSE133504830720303016 0
@@ -511,12 +524,12 @@
 74D:\Desktop\Todo\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133504830752019851 0
 88D:\Desktop\Todo\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133504830777730784 0
 33D:\Desktop\Todo\node_modules\svgo133504830748622795 1
+79D:\Desktop\Todo\node_modules\posthtml\node_modules\posthtml-parser\package.json133504830728519987 0
+80D:\Desktop\Todo\node_modules\caniuse-lite\data\features\css-media-interaction.js133504830784302427 0
 72D:\Desktop\Todo\node_modules\@parcel\runtime-service-worker\package.json133504830727175677 0
 77D:\Desktop\Todo\node_modules\@swc\helpers\src\_class_private_field_update.mjs133504830795119769 0
 38D:\Desktop\Todo\node_modules\term-size133504830734193404 1
 75D:\Desktop\Todo\node_modules\caniuse-lite\data\features\addeventlistener.js133504830733033028 0
-79D:\Desktop\Todo\node_modules\posthtml\node_modules\posthtml-parser\package.json133504830728519987 0
-80D:\Desktop\Todo\node_modules\caniuse-lite\data\features\css-media-interaction.js133504830784302427 0
 49D:\Desktop\Todo\node_modules\ordered-binary\.idea133504830737694662 1
 104D:\Desktop\Todo\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133504830760595333 0
 86D:\Desktop\Todo\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133504830772105521 0
@@ -606,7 +619,7 @@
 58D:\Desktop\Todo\node_modules\weak-lru-cache\dist\index.cjs133504830720759276 0
 58D:\Desktop\Todo\node_modules\js-yaml\lib\schema\default.js133504830731271067 0
 76D:\Desktop\Todo\node_modules\abortcontroller-polyfill\src\abortcontroller.js133504830731149210 0
-31D:\Desktop\Todo\dist\index.html133504834900379370 0
+31D:\Desktop\Todo\dist\index.html133504883715975431 0
 59D:\Desktop\Todo\node_modules\nth-check\lib\esm\parse.js.map133504830741730413 0
 55D:\Desktop\Todo\node_modules\utility-types\CHANGELOG.md133504830735927579 0
 50D:\Desktop\Todo\node_modules\base-x\src\index.d.ts133504830728451756 0
@@ -883,7 +896,7 @@
 48D:\Desktop\Todo\node_modules\tslib\tslib.es6.mjs133504830734751555 0
 72D:\Desktop\Todo\node_modules\@parcel\core\test\SymbolPropagation.test.js133504830777330519 0
 80D:\Desktop\Todo\node_modules\css-select\node_modules\domhandler\lib\esm\index.js133504830723593146 0
-48D:\Desktop\Todo\dist\to-do-list (1).bd3000fc.png133504834900399363 0
+48D:\Desktop\Todo\dist\to-do-list (1).bd3000fc.png133504883715975431 0
 60D:\Desktop\Todo\node_modules\@parcel\utils\src\countLines.js133504830737196231 0
 45D:\Desktop\Todo\node_modules\tslib\tslib.html133504830722334510 0
 53D:\Desktop\Todo\node_modules\semver\classes\semver.js133504830750658888 0
@@ -1042,6 +1055,7 @@
 61D:\Desktop\Todo\node_modules\css-tree\lib\syntax\node\Rule.js133504830789972165 0
 48D:\Desktop\Todo\node_modules\safe-buffer\LICENSE133504830720282957 0
 51D:\Desktop\Todo\node_modules\entities\lib\encode.js133504830733508885 0
+39D:\Desktop\Todo\dist\index.6d36bcb8.css133504835452806518 0
 60D:\Desktop\Todo\node_modules\domutils\lib\traversal.d.ts.map133504830738811804 0
 59D:\Desktop\Todo\node_modules\svgo\plugins\collapseGroups.js133504830751914481 0
 59D:\Desktop\Todo\node_modules\css-what\lib\commonjs\types.js133504830733965224 0
@@ -1191,9 +1205,9 @@
 60D:\Desktop\Todo\node_modules\source-map\lib\binary-search.js133504830732832408 0
 85D:\Desktop\Todo\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133504830791790557 0
 90D:\Desktop\Todo\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133504830727018377 1
-65D:\Desktop\Todo\node_modules\css-tree\cjs\syntax\node\Comment.cjs133504830741336130 0
 67D:\Desktop\Todo\node_modules\css-tree\lib\definition-syntax\walk.js133504830794806189 0
 83D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c133504830758307736 0
+65D:\Desktop\Todo\node_modules\css-tree\cjs\syntax\node\Comment.cjs133504830741336130 0
 54D:\Desktop\Todo\node_modules\@parcel\optimizer-swc\src133504830724597038 1
 43D:\Desktop\Todo\node_modules\@parcel\plugin133504830726665348 1
 62D:\Desktop\Todo\node_modules\csso\lib\replace\property\font.js133504830760930997 0
@@ -2132,14 +2146,6 @@
 90D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133504830730310062 0
 58D:\Desktop\Todo\node_modules\@parcel\packager-html\LICENSE133504830720488046 0
 79D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133504830766283939 0
-55D:\Desktop\Todo\node_modules\@lezer\common\package.json133504830732484062 0
-71D:\Desktop\Todo\node_modules\caniuse-lite\data\features\font-feature.js133504830817088227 0
-83D:\Desktop\Todo\node_modules\csso\node_modules\css-tree\lib\syntax\node\Operator.js133504830783219875 0
-89D:\Desktop\Todo\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.js.map133504830749588050 0
-79D:\Desktop\Todo\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133504830728396419 0
-60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\GQ.js133504830819408761 0
-60D:\Desktop\Todo\node_modules\@swc\helpers\_\_super_prop_base133504830789907363 1
-71D:\Desktop\Todo\node_modules\caniuse-lite\data\features\offline-apps.js133504830832246029 0
 88D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common133504830772184194 1
 91D:\Desktop\Todo\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupIDs.js133504830735842289 0
 47D:\Desktop\Todo\node_modules\emoji-regex\es2015133504830732309989 1
@@ -2393,10 +2399,6 @@
 91D:\Desktop\Todo\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133504830750159771 1
 57D:\Desktop\Todo\node_modules\htmlnano\lib\presets\max.cjs133504830736403687 0
 49D:\Desktop\Todo\node_modules\@parcel\packager-raw133504830726904766 1
-81D:\Desktop\Todo\node_modules\htmlnano\lib\modules\collapseAttributeWhitespace.mjs133504830761302260 0
-77D:\Desktop\Todo\node_modules\@babel\code-frame\node_modules\has-flag\index.js133504830722561530 0
-94D:\Desktop\Todo\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts.map133504830745450061 0
-41D:\Desktop\Todo\node_modules\csso\LICENSE133504830719798746 0
 69D:\Desktop\Todo\node_modules\@swc\helpers\esm\_non_iterable_spread.js133504830777790841 0
 105D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133504830752970510 0
 85D:\Desktop\Todo\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133504830722956778 0
@@ -3858,6 +3860,7 @@
 60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\DO.js133504830808688534 0
 68D:\Desktop\Todo\node_modules\caniuse-lite\data\features\xhtmlsmil.js133504830843811979 0
 60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\EC.js133504830813073427 0
+43D:\Desktop\Todo\dist\unchecked.9fb4f254.png133504835358960300 0
 60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\EE.js133504830813104853 0
 60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\EG.js133504830813184228 0
 60D:\Desktop\Todo\node_modules\caniuse-lite\data\regions\ER.js133504830813398335 0
@@ -4180,8 +4183,6 @@
 76D:\Desktop\Todo\node_modules\caniuse-lite\data\features\deviceorientation.js133504830805972121 0
 50D:\Desktop\Todo\node_modules\ansi-styles\readme.md133504830725743691 0
 65D:\Desktop\Todo\node_modules\caniuse-lite\data\features\dialog.js133504830806012173 0
-59D:\Desktop\Todo\node_modules\@parcel\cache\src\LMDBCache.js133504830736373603 0
-66D:\Desktop\Todo\node_modules\@parcel\utils\test\collection.test.js133504830734986054 0
 72D:\Desktop\Todo\node_modules\caniuse-lite\data\features\dispatchevent.js133504830806835541 0
 71D:\Desktop\Todo\node_modules\caniuse-lite\data\features\documenthead.js133504830812827053 0
 75D:\Desktop\Todo\node_modules\caniuse-lite\data\features\domcontentloaded.js133504830812902709 0
@@ -4323,7 +4324,7 @@
 64D:\Desktop\Todo\node_modules\@swc\helpers\_\_update\package.json133504830792063464 0
 62D:\Desktop\Todo\node_modules\caniuse-lite\data\features\rem.js133504830833956082 0
 80D:\Desktop\Todo\node_modules\caniuse-lite\data\features\subresource-integrity.js133504830837389886 0
-39D:\Desktop\Todo\dist\index.2cdaf7bc.css133504834900379370 0
+39D:\Desktop\Todo\dist\index.2cdaf7bc.css133504883715975431 0
 73D:\Desktop\Todo\node_modules\@babel\code-frame\node_modules\chalk\license133504830726455605 0
 80D:\Desktop\Todo\node_modules\caniuse-lite\data\features\requestanimationframe.js133504830833966178 0
 61D:\Desktop\Todo\node_modules\@parcel\utils\src\http-server.js133504830746518734 0
@@ -4692,6 +4693,7 @@
 57D:\Desktop\Todo\node_modules\@swc\helpers\esm\_type_of.js133504830781123148 0
 79D:\Desktop\Todo\node_modules\@swc\helpers\esm\_unsupported_iterable_to_array.js133504830781153362 0
 48D:\Desktop\Todo\node_modules\@parcel\packager-js133504830743158311 1
+38D:\Desktop\Todo\dist\index.17c3874f.js133504835452806518 0
 56D:\Desktop\Todo\node_modules\@swc\helpers\esm\_update.js133504830781193379 0
 76D:\Desktop\Todo\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js133504830722956778 0
 70D:\Desktop\Todo\node_modules\@swc\helpers\esm\_wrap_async_generator.js133504830781270608 0
@@ -4747,6 +4749,7 @@
 57D:\Desktop\Todo\node_modules\@swc\helpers\cjs\_update.cjs133504830762537448 0
 68D:\Desktop\Todo\node_modules\@parcel\core\src\ParcelConfig.schema.js133504830769773389 0
 56D:\Desktop\Todo\node_modules\@swc\helpers\cjs\_using.cjs133504830762620934 0
+41D:\Desktop\Todo\dist\checked.3f57a9e8.png133504835359138503 0
 55D:\Desktop\Todo\node_modules\@parcel\optimizer-svgo\src133504830724663865 1
 51D:\Desktop\Todo\node_modules\@swc\core\binding.d.ts133504830737991498 0
 51D:\Desktop\Todo\node_modules\@swc\core\CHANGELOG.md133504830736008996 0
@@ -4821,6 +4824,8 @@
 46D:\Desktop\Todo\node_modules\@parcel\utils\lib133504830762283154 1
 68D:\Desktop\Todo\node_modules\@parcel\transformer-babel\src\config.js133504830734002839 0
 55D:\Desktop\Todo\node_modules\@parcel\utils\package.json133504830762139068 0
+59D:\Desktop\Todo\node_modules\@parcel\cache\src\LMDBCache.js133504830736373603 0
+66D:\Desktop\Todo\node_modules\@parcel\utils\test\collection.test.js133504830734986054 0
 66D:\Desktop\Todo\node_modules\@parcel\utils\test\DefaultMap.test.js133504830738907323 0
 53D:\Desktop\Todo\node_modules\@parcel\utils\test\input133504830752773237 1
 66D:\Desktop\Todo\node_modules\@parcel\utils\test\objectHash.test.js133504830756002872 0
@@ -4862,7 +4867,7 @@
 60D:\Desktop\Todo\node_modules\@parcel\utils\src\objectHash.js133504830755874207 0
 59D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\src133504830729042339 1
 63D:\Desktop\Todo\node_modules\@parcel\utils\src\openInBrowser.js133504830756251071 0
-41D:\Desktop\Todo\dist\Todo.3464ddca.js.map133504834900480872 0
+41D:\Desktop\Todo\dist\Todo.3464ddca.js.map133504883716090637 0
 66D:\Desktop\Todo\node_modules\@parcel\utils\src\progress-message.js133504830758307736 0
 69D:\Desktop\Todo\node_modules\@parcel\events\test\ValueEmitter.test.js133504830736348975 0
 61D:\Desktop\Todo\node_modules\@parcel\utils\src\relativeUrl.js133504830759418236 0
@@ -5075,6 +5080,7 @@
 63D:\Desktop\Todo\node_modules\@parcel\reporter-cli\src\render.js133504830736995753 0
 62D:\Desktop\Todo\node_modules\@parcel\reporter-cli\src\utils.js133504830737704666 0
 68D:\Desktop\Todo\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133504830733282719 0
+42D:\Desktop\Todo\dist\index.17c3874f.js.map133504835452940203 0
 86D:\Desktop\Todo\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\css-tools.js133504830746483510 0
 58D:\Desktop\Todo\node_modules\@parcel\profiler\package.json133504830736849451 0
 96D:\Desktop\Todo\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeXMLNS.js133504830758941731 0
@@ -5937,9 +5943,11 @@
 44D:\Desktop\Todo\node_modules\.bin\parcel.ps1133504830846232818 0
 40D:\Desktop\Todo\node_modules\.bin\semver133504830846306665 0
 60D:\Desktop\Todo\node_modules\.bin\update-browserslist-db.cmd133504830846306665 0
-41D:\Desktop\Todo\dist\checked.6b9800e9.png133504834900399363 0
-43D:\Desktop\Todo\dist\index.2cdaf7bc.css.map133504834900480872 0
-38D:\Desktop\Todo\dist\index.44983732.js133504834900379370 0
-42D:\Desktop\Todo\dist\index.44983732.js.map133504834900480872 0
-37D:\Desktop\Todo\dist\Todo.3464ddca.js133504834900379370 0
-43D:\Desktop\Todo\dist\unchecked.35139743.png133504834900399363 0
+41D:\Desktop\Todo\dist\checked.6b9800e9.png133504883715879897 0
+43D:\Desktop\Todo\dist\index.2cdaf7bc.css.map133504883716079142 0
+38D:\Desktop\Todo\dist\index.44983732.js133504883730271008 0
+42D:\Desktop\Todo\dist\index.44983732.js.map133504883730306405 0
+43D:\Desktop\Todo\dist\index.6d36bcb8.css.map133504835452950272 0
+48D:\Desktop\Todo\dist\to-do-list (1).f4764350.png133504835358744695 0
+37D:\Desktop\Todo\dist\Todo.3464ddca.js133504883715975431 0
+43D:\Desktop\Todo\dist\unchecked.35139743.png133504883715909890 0
